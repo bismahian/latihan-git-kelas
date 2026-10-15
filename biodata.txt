@@ -1,2 +1,3 @@
 Nama: Bisma Hian Saputra
 Npm: 202557201059
+Prodi: Sistem Informasi
